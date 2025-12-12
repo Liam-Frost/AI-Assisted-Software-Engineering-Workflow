@@ -168,11 +168,11 @@ They serve different purposes; both are required.
 │   │   └─ ADR-0001-template.md
 │   │
 │   └─ iterations/
-│          └─ YYYY-MM-DD-.md
+│        └─ YYYY-MM-DD-.md
 │
 ├─ src/
 └─ tests/
-└─ smoke-checklist.md
+    └─ smoke-checklist.md
 ```
 
 ---
@@ -886,7 +886,7 @@ Codex 是执行工具，不是工程阶段。
 │
 ├─ src/
 └─ tests/
-   └─ smoke-checklist.md
+    └─ smoke-checklist.md
 ```
 
 ---
