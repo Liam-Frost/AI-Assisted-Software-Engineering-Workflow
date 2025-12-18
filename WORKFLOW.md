@@ -650,14 +650,6 @@ A4) Initial Document Package Generation (Strict Order, One File at a Time)
   * Ask whether I would like to consider entering the next engineering phase
     (**you must not transition phases on your own**)
 
----
-
-If you want, next we can:
-
-* Inline this cleanly into the **full English Bootstrap Prompt**
-* Or normalize **A1–A4** into a formal **state-machine style spec**
-* Or add a short **“Why ADRs are forbidden during bootstrap”** rationale block (English + Chinese) for WORKFLOW.md
-
 ────────────────
 Mode B | Project Continuation
 ────────────────
